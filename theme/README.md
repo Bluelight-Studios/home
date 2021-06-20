@@ -1,2 +1,2 @@
-# Theme folder to operate Bluecord.
-Have fun!
+# Info:
+Theme folder to operate Bluecord.
